@@ -1,0 +1,1 @@
+Grocery Store Management System project to keep a reocrd of grocerey store stocks and orders. 
